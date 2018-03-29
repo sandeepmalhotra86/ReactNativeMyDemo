@@ -13,4 +13,4 @@ export default class DownloadImageForUrl extends Component {
 }
 
 // skip this line if using Create React Native App
-AppRegistry.registerComponent('AwesomeProject', () => DownloadImageForUrl);
+//AppRegistry.registerComponent('AwesomeProjectForDownloadingImage', () => DownloadImageForUrl);
